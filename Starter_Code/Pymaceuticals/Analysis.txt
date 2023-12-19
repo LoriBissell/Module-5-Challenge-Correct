@@ -1,0 +1,3 @@
+The most obvious observation is that Capomulin is the most effective tumor drug. 
+Mouse weight and the average tumor volume are closely correlated. Higher weight of the subject results in larger tumor volume. 
+Infubinol is the only drug out of the top four promising regimen whose data might be skewed by an outlier. 
